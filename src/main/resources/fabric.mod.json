@@ -1,0 +1,31 @@
+{
+	"schemaVersion": 1,
+	"id": "pingviewer",
+	"version": "${version}",
+	"name": "PingViewer",
+	"description": "Shows your server ping with a simple /ping command.",
+	"authors": [
+		"NotFlow"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/pingviewer/icon.png",
+	"environment": "server",
+	"entrypoints": {
+		"main": [
+			"com.example.pingviewer.PingViewer"
+		],
+		"client": [
+			"com.example.pingviewer.PingViewerClient"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.18.4",
+		"minecraft": "1.21.11",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
