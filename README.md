@@ -5,7 +5,7 @@ All Releases on https://modrinth.com/mod/ping-viewer
 ## Planned Features
 
 - /ping <player> (get other player's ping)
-- /ping reload (reloads the ping mod so that any edits to the config are applied
+- /ping reload (reloads the ping mod so that any edits to the config are applied)
 - Curseforge Release
 - Luckperms Support
 - Keep the mod updated as long as i'm alive (hopefully)
