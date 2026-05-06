@@ -1,9 +1,12 @@
 # PingViewer
 
-## Setup
+All Releases on https://modrinth.com/mod/ping-viewer
 
-For setup instructions, please see the [Fabric Documentation page](https://docs.fabricmc.net/develop/getting-started/creating-a-project#setting-up) related to the IDE that you are using.
+## Planned Features
 
-## License
+- Curseforge Release
+- Keep the mod updated as long as i'm alive (hopefully)
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+ty for downloading!
+socials: https://linktr.ee/xNotFlow
+<3
