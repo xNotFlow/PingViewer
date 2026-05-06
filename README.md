@@ -11,5 +11,5 @@ All Releases on https://modrinth.com/mod/ping-viewer
 - Keep the mod updated as long as i'm alive (hopefully)
 
 ty for downloading!
-socials: https://linktr.ee/xNotFlow
-<3
+ socials: https://linktr.ee/xNotFlow
+ <3
